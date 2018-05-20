@@ -1,2 +1,0 @@
-psutil/_psutil_linux.cpython-34m.so
-psutil/_psutil_posix.cpython-34m.so
