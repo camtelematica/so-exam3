@@ -1,8 +1,6 @@
 import pytest
 from op_stats.app import app
 from op_stats.stats import Stats
-import sys
-sys.path.append('/home/flaskdev/so-exam3')
 
 @pytest.fixture
 def client():
