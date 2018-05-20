@@ -8,4 +8,3 @@ op_stats.egg-info/SOURCES.txt
 op_stats.egg-info/dependency_links.txt
 op_stats.egg-info/requires.txt
 op_stats.egg-info/top_level.txt
-test/tests_stats.py
