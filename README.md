@@ -138,8 +138,8 @@ language: python
 notifications:
   email: false
 python:
-- '3.4'```
-```install: pip install tox-travis
+- '3.4'
+install: pip install tox-travis
 script: tox -e pytest
 ``` 
 - Luego de que se ejecute ese archivo, podremos ver los resultados:  
