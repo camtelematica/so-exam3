@@ -145,7 +145,7 @@ script: tox -e pytest
 - Luego de que se ejecute ese archivo, podremos ver los resultados:  
 ![](Imagenes/travis.png)  
 
-![](Imagenes/travis_1.png)  
-
 ![](Imagenes/travis_2.png)  
+
+![](Imagenes/travis_3.png)  
 
