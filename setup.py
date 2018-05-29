@@ -6,6 +6,6 @@ setup(
     packages=['op_stats'],    
     install_requires=[
         'flask',
-        'psutil'
+        'psutil'        
     ]
 )
