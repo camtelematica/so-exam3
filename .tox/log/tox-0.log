@@ -1,6 +1,6 @@
 actionid: tox
 msg: packaging
-cmdargs: ['/usr/bin/python', local('/home/rootCam/so-exam3/setup.py'), 'sdist', '--formats=zip', '--dist-dir', local('/home/rootCam/so-exam3/.tox/dist')]
+cmdargs: ['/usr/bin/python', local('/home/rootCam/provisional/so-exam3/setup.py'), 'sdist', '--formats=zip', '--dist-dir', local('/home/rootCam/provisional/so-exam3/.tox/dist')]
 
 running sdist
 running egg_info
